@@ -1,0 +1,12 @@
+C:\POO\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\POO\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\POO\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\POO\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\POO\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\POO\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\POO\c#\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\POO\c#\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\POO\c#\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\POO\c#\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\POO\c#\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\POO\c#\ProyectodePOOyAnalisisMBrasescoTomas\CapaLogica\obj\Debug\CapaLogica.pdb
